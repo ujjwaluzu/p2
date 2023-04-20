@@ -1,0 +1,168 @@
+/* *****************************TAG CONTAINERS************************** */
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+h1{
+    
+    margin: 50px auto 0 auto;
+    color: #66BFBF;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+   
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+a{
+    color: #11999E;
+}
+
+hr{
+    width: 8%;
+    border: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    color: #EAF6F6;
+}
+    
+
+/* ****************************CLASS CONTAINERS************************ */
+
+.pro{
+    text-decoration: underline;
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    
+   
+    
+}
+
+.middle-container{
+   
+}
+
+.bottom-container{
+
+    
+}
+
+.bottom-cloud{
+  position: relative;
+  bottom: 480px;
+  left: 80px;
+}
+
+.top-cloud{
+    position: relative;
+    top: 50px;
+    
+    left : 200px;
+    
+}
+.comp{
+    border-radius: 100%;
+    float: left;
+}
+
+.mount{
+    padding-top: 180px;
+}
+
+.skills{
+    margin: 80px;
+
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+.skill-row img {
+    width: 25%;
+    margin-right: 30px;
+}
+
+.chilli {
+    float: right;
+}
+.contact{
+    margin: 80px;
+}
+
+.profile{
+    margin: 80px;
+}
+
+
+.bottom-container{
+    margin: 0;
+    background-color: #66BFBF;
+    padding: 30px;
+}
+.bottom-container a{
+    color: #11999E;
+    padding: 50px;
+    text-decoration: none;
+}
+.bottom-cloud p{
+    color: #EAF6F6;
+}
+
+.h:hover{
+    color : white;
+}
+
+.contact-txt{
+    padding: 10px;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+     
+    
+
+
